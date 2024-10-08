@@ -13,7 +13,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		SSIS-Metadata-Extractor\tab_ssisPkgMeta2.sql = SSIS-Metadata-Extractor\tab_ssisPkgMeta2.sql
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseSql", "..\..\..\OneDrive - Altekon\Documents\Altekon\Projects\PFA\2022\SSIS-Metadata-Extractor2\SSIS-Metadata-Extractor\ParseSql\ParseSql\ParseSql.csproj", "{8E0CC716-6642-4836-A06C-DACAE3AE99D0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0CC716-6642-4836-A06C-DACAE3AE99D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0CC716-6642-4836-A06C-DACAE3AE99D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0CC716-6642-4836-A06C-DACAE3AE99D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0CC716-6642-4836-A06C-DACAE3AE99D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
