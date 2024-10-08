@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{54B417D7-85D8-4092-9511-01BEA6733D2D}"
+	ProjectSection(SolutionItems) = preProject
+		SSIS-Metadata-Extractor\extract-ssis-connect-mgrs.ps1 = SSIS-Metadata-Extractor\extract-ssis-connect-mgrs.ps1
+		SSIS-Metadata-Extractor\extract-ssis-pack-info-new.ps1 = SSIS-Metadata-Extractor\extract-ssis-pack-info-new.ps1
+		SSIS-Metadata-Extractor\process_metadata2.sql = SSIS-Metadata-Extractor\process_metadata2.sql
+		SSIS-Metadata-Extractor\ssisConnectionManagers.sql = SSIS-Metadata-Extractor\ssisConnectionManagers.sql
+		SSIS-Metadata-Extractor\tab_SQLObjectDependencies.sql = SSIS-Metadata-Extractor\tab_SQLObjectDependencies.sql
+		SSIS-Metadata-Extractor\tab_ssisPkgMeta2.sql = SSIS-Metadata-Extractor\tab_ssisPkgMeta2.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE7761B-4A0F-4F61-A1BF-F48D41CF8336}
+	EndGlobalSection
+EndGlobal
